@@ -1,24 +1,16 @@
 # Online Bookstore SQL Project
 
 ## Overview
-
-This project demonstrates database design, data management, and business analysis using PostgreSQL. The database stores information about books, customers, and orders and uses SQL queries to answer important business questions.
+This project is built using PostgreSQL and focuses on managing books, customers, and orders in an online bookstore. The project includes database creation, data import from CSV files, and SQL queries to perform business analysis.
 
 ## Database Tables
 
-### Books
+- Books
+- Customers
+- Orders
 
-Stores book details such as title, author, genre, publication year, price, and stock.
 
-### Customers
-
-Stores customer information including name, email, phone number, city, and country.
-
-### Orders
-
-Stores order transactions and connects customers with books purchased.
-
-## Skills Demonstrated
+## Skills used
 
 * SQL
 * PostgreSQL
